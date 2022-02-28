@@ -1,0 +1,46 @@
+.main{
+    min-height: 85vh;
+}
+
+.main.sobre,
+.fundo{
+    min-height: 85vh;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgb(104, 145, 162), rgb(12, 97, 33));
+
+}
+
+.conteudo{
+    width: 1000px;
+    padding: 100px 100px;
+    margin: 0 auto 25px;
+    /* margin-top: 50px; */
+}
+
+.navbar-brand{
+    margin-left: auto;
+    margin-bottom: 5px;
+}
+
+.logo-topo{
+    display: block;
+    float: left;
+    width: 1000px;
+    margin-top: 5vh;
+    margin-left: auto;
+    margin-right: auto; 
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6);
+}
+
+.row.foot {
+    background-color: rgba(255, 228, 196, 0.829);
+}
+
+.fb{
+    margin-left: 50vh;
+}
+
+.ig{
+    margin-left: 50vh;
+}
+
